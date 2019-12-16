@@ -1,6 +1,6 @@
 # APM-Project
 
-Final project for Advanced Predictive Model with professor Joydeep Ghosh. Below are links to the relevant pieces of work for our final submission. You can also [view our blog on Medium](https://medium.com/@rawini23/american-sign-language-hand-gesture-recognition-f1c4468fb177). 
+Final project for Advanced Predictive Modeling with professor Joydeep Ghosh. Below are links to the relevant pieces of work for our final submission. You can also [view our blog on Medium](https://medium.com/@rawini23/american-sign-language-hand-gesture-recognition-f1c4468fb177). 
 
 ## Data
 
