@@ -4,7 +4,7 @@ Final project for Advanced Predictive Model with professor Joydeep Ghosh. Below 
 
 ## Data
 
-[Dynaic Signs Leap Motion Data](https://github.com/chenson2018/APM-Project/tree/master/LeapMotion/Leap_Motion_Data)
+[Dynamic Signs Leap Motion Data](https://github.com/chenson2018/APM-Project/tree/master/LeapMotion/Leap_Motion_Data)
 
 [Static Image Data](https://github.com/chenson2018/APM-Project/tree/master/Still_Images)
 
